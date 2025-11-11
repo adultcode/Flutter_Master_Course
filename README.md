@@ -62,8 +62,8 @@
 |  | 2- [نصب پیش نیازها](https://www.youtube.com/watch?v=0v1KehKRNRw) |
 |  | 3- نسخه جدید اندروید استودیو |
 |  | 4- [نصب سیستم عامل مک روی ویندوز](https://www.youtube.com/watch?v=9UFWzX16TKg) |
-| فصل دوم: مباحث پایه برنامه نویسی دارت | 1- تعریف متغیر |
-|  | 2- عملگرهای ریاضی |
+| فصل دوم: مباحث پایه برنامه نویسی دارت | 1- [تعریف متغیر](https://www.youtube.com/watch?v=snZziOY5QuQ) |
+|  | 2-  [عملگرهای ریاضی](https://www.youtube.com/watch?v=JYLjRilfaTs) |
 |  | 3- عملگرهای Unary assignment |
 |  | 4- عبارت های شرطی - ساختار if/else |
 |  | 5- عبارت های شرطی - ساختار Switch case |
