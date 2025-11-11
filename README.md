@@ -3,10 +3,10 @@
 
 روزانه یک قسمت از دوره آموزشی در کانال یوتیوب منتشر میشود.
 ## لینک های مرتبط
- * [ویدیوهای دوره](https://markdownlivepreview.com/)
- * [وبسایت فلاتر لرن](https://markdownlivepreview.com/)
- * [وبسایت شخصی](https://markdownlivepreview.com/)
-
+* [کانال تلگرام](https://t.me/flutter_learn_ir)
+* [وبسایت فلاتر لرن](https://flutter-learn.ir/) 
+* [وبسایت شخصی](https://hesam.cc/)
+* 
 ## پروژه های عملی دوره
 ## پروژه بازی دوز و پروژه طراحی چت روم
 
