@@ -3,10 +3,10 @@
 
 روزانه یک قسمت از دوره آموزشی در کانال یوتیوب منتشر میشود.
 ## لینک های مرتبط
- * [ویدیوهای دوره](https://markdownlivepreview.com/)
- * [وبسایت فلاتر لرن](https://markdownlivepreview.com/)
- * [وبسایت شخصی](https://markdownlivepreview.com/)
-
+* [کانال تلگرام](https://t.me/flutter_learn_ir)
+* [وبسایت فلاتر لرن](https://flutter-learn.ir/) 
+* [وبسایت شخصی](https://hesam.cc/)
+* 
 ## پروژه های عملی دوره
 ## پروژه بازی دوز و پروژه طراحی چت روم
 
@@ -59,12 +59,12 @@
 | فصل | قسمت |
 |------|------|
 | فصل اول: مقدمه دوره آموزشی | 1- آشنایی با دوره و توضیحات |
-|  | 2- نصب پیش نیازها |
+|  | 2- [نصب پیش نیازها](https://www.youtube.com/watch?v=0v1KehKRNRw) |
 |  | 3- نسخه جدید اندروید استودیو |
-|  | 4- سیستم عامل مک |
-| فصل دوم: مباحث پایه برنامه نویسی دارت | 1- تعریف متغیر |
-|  | 2- عملگرهای ریاضی |
-|  | 3- عملگرهای Unary assignment |
+|  | 4- [نصب سیستم عامل مک روی ویندوز](https://www.youtube.com/watch?v=9UFWzX16TKg) |
+| فصل دوم: مباحث پایه برنامه نویسی دارت | 1- [تعریف متغیر](https://www.youtube.com/watch?v=snZziOY5QuQ) |
+|  | 2-  [عملگرهای ریاضی](https://www.youtube.com/watch?v=JYLjRilfaTs) |
+|  | 3- [عملگرهای Unary assignment](https://www.youtube.com/watch?v=kJgCpCkUWPI) |
 |  | 4- عبارت های شرطی - ساختار if/else |
 |  | 5- عبارت های شرطی - ساختار Switch case |
 |  | 6- عبارت های شرطی - ساختار Ternary |
