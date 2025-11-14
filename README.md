@@ -66,7 +66,7 @@
 |  | 2-  [عملگرهای ریاضی](https://www.youtube.com/watch?v=JYLjRilfaTs) |
 |  | 3- [عملگرهای Unary assignment](https://www.youtube.com/watch?v=kJgCpCkUWPI) |
 |  | 4- [عبارت های شرطی - ساختار if/else](https://www.youtube.com/watch?v=tLQejd0UYEk) |
-|  | 5- عبارت های شرطی - ساختار Switch case |
+|  | 5- [عبارت های شرطی - ساختار Switch case](https://www.youtube.com/watch?v=hlXSwlk5iSg) |
 |  | 6- عبارت های شرطی - ساختار Ternary |
 |  | 7- حلقه های تکرار: دستور While |
 |  | 8- حلقه های تکرار: دستور for |
