@@ -70,7 +70,7 @@
 |  | 6- [حلقه های تکرار](https://www.youtube.com/watch?v=IucBW273iw8) |
 |  | 7- [آشنایی با نوع داده List](https://www.youtube.com/watch?v=OgqsrXUXECk) |
 |  | 8- [آشنایی با نوع داده Map](https://www.youtube.com/watch?v=ysLh0Qlv3vA) |
-|  | 9- [آشنایی با نوع داده Set](youtube.com/watch?v=BiYVEGt8jWI&feature=youtu.be) |
+|  | 9- [آشنایی با نوع داده Set](https://www.youtube.com/watch?v=BiYVEGt8jWI) |
 |  | 10- [آشنایی با نوع داده Enum]() |
 |  | 11- تعریف تابع در برنامه نویسی |
 |  | 12- بررسی عمیق تر توابع |
