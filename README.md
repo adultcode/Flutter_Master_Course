@@ -71,8 +71,8 @@
 |  | 7- [آشنایی با نوع داده List](https://www.youtube.com/watch?v=OgqsrXUXECk) |
 |  | 8- [آشنایی با نوع داده Map](https://www.youtube.com/watch?v=ysLh0Qlv3vA) |
 |  | 9- [آشنایی با نوع داده Set](https://www.youtube.com/watch?v=BiYVEGt8jWI) |
-|  | 10- [آشنایی با نوع داده Enum]() |
-|  | 11- تعریف تابع در برنامه نویسی |
+|  | 10- [آشنایی با نوع داده Enum](https://www.youtube.com/watch?v=jM5k8PsjZ2c) |
+|  | 11- [تعریف تابع در برنامه نویسی](https://www.youtube.com/watch?v=DsEsCz-58iE) |
 |  | 12- بررسی عمیق تر توابع |
 |  | 13- نوع داده Records |
 | فصل سوم: مباحث پیشرفته برنامه نویسی دارت | 1- برنامه نویسی شی گرایی: تعریف کلاس |
