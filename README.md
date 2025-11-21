@@ -74,16 +74,14 @@
 |  | 10- [آشنایی با نوع داده Enum](https://www.youtube.com/watch?v=jM5k8PsjZ2c) |
 |  | 11- [تعریف تابع در برنامه نویسی](https://www.youtube.com/watch?v=DsEsCz-58iE) |
 |  | 12- [بررسی عمیق تر توابع](https://www.youtube.com/watch?v=mFvXeHP4620) |
-|  | 13- نوع داده Records |
-| فصل سوم: مباحث پیشرفته برنامه نویسی دارت | 1- برنامه نویسی شی گرایی: تعریف کلاس |
-|  | 2- مفاهیم اصلی شی گرایی |
-|  | 3- برنامه نویسی شی گرایی: مقادیر Private |
-|  | 4- ارث بری در شی گرایی |
-|  | 5- اپلی مورفیسم در شی گرایی |
-|  | 6- برنامه نویسی شی گرایی: طراحی اینترفیس |
-|  | 7- مدیریت خطا |
-|  | 8- برنامه نویسی Async |
-|  | 9- خواندن و نوشتن از فایل |
+|  | 13- [نوع داده Records](https://www.youtube.com/watch?v=6Bx9n5E22YQ) |
+| فصل سوم: مباحث پیشرفته برنامه نویسی دارت | 1- [برنامه نویسی شی گرایی: تعریف کلاس](https://www.youtube.com/watch?v=k9pKl5D_2ck) |
+|  | 2- [مفاهیم اصلی شی گرایی](https://www.youtube.com/watch?v=2uV--UePfHQ) |
+|  | 3- [ارث بری در شی گرایی](https://www.youtube.com/watch?v=ekRP5nef7F0) |
+|  | 4- [برنامه نویسی شی گرایی: طراحی اینترفیس](https://www.youtube.com/watch?v=_vSxssDKsKo) |
+|  | 5- [مدیریت خطا](https://www.youtube.com/watch?v=8wyV-zKdGWg) |
+|  | 6- [برنامه نویسی Async](https://www.youtube.com/watch?v=Y0j5HPW2qWI) |
+|  | 7- [خواندن و نوشتن از فایل](https://www.youtube.com/watch?v=CsInn-BKPgk) |
 | فصل چهارم: ویجت های لایه در فلاتر | 1- ساخت اولین پروژه فلاتر |
 |  | 2- ویجت Container |
 |  | 3- ویجت های Column, Row |
