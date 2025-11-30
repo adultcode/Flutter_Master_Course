@@ -90,10 +90,9 @@
 |  | 2- [کار با دکمه و رویدادهای کلیک](https://www.youtube.com/watch?v=oioU3cHIyj4) |
 |  | 3- [ساخت ویجت Stateful](https://www.youtube.com/watch?v=6glcdwpd7SM) |
 |  | 4- [دریافت اطلاعات از کاربر با Textfield](https://www.youtube.com/watch?v=17mZPjlkfro) |
-|  | 5- (طراحی دکمه Checkbox و Radio Button)[https://www.youtube.com/watch?v=4cUDZDccZ8g] |
-|  | 6- (ساخت منو Drop down)[https://www.youtube.com/watch?v=ftDDn7nob3Q] |
-|  | 7- (اضافه کردن تصویر و فونت به برنامه)[https://www.youtube.com/watch?v=1mRdtdmuuvM] |
-|  | 8- کار با TextFormField |
+|   | 5- [طراحی دکمه Checkbox و Radio Button](https://www.youtube.com/watch?v=4cUDZDccZ8g) |
+|   | 6- [ساخت منو Drop down](https://www.youtube.com/watch?v=ftDDn7nob3Q) |
+|   | 7- [اضافه کردن تصویر و فونت به برنامه](https://www.youtube.com/watch?v=1mRdtdmuuvM) ||  | 8- کار با TextFormField |
 |  | 9- طراحی فرم OTP دریافت کد |
 | فصل ششم: متریال دیزاین | 1- آشنایی با زبان طراحی متریال دیزاین |
 |  | 2- طراحی Appbar |
