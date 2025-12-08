@@ -95,16 +95,15 @@
 |   | 7- [اضافه کردن تصویر و فونت به برنامه](https://www.youtube.com/watch?v=1mRdtdmuuvM) ||  | 8- کار با TextFormField |
 |  | 9- [دریافت اطلاعات با TextForm](https://www.youtube.com/watch?v=ThvDLiCH0EA) |
 |  | 10- [طراحی فرم OTP دریافت کد](https://www.youtube.com/watch?v=XH9YaUwv6js) |
-| فصل ششم: متریال دیزاین | 1- آشنایی با زبان طراحی متریال دیزاین |
-|  | 2- طراحی Appbar |
-|  | 3- ساخت منو Navigation drawer |
-|  | 4- ساخت دکمه شناور FAB |
-|  | 5- طراحی منو Bottom Navigation |
-|  | 6- طراحی تب در اپلیکیشن Tabview |
-|  | 7- طراحی اسلایدر |
-|  | 8- پیاده سازی ویجت Banner |
-|  | 9- آشنایی با Theme در فلاتر |
-|  | 10- پیاده سازی Date picker |
+| فصل ششم: متریال دیزاین | 1-[متریال دیزاین چیست؟ طراحی Appbar](https://www.youtube.com/watch?v=mWrHQFv6QxU) |
+|  | 2- [ساخت منو Navigation drawer](https://www.youtube.com/watch?v=YkSAt1vUpo0) |
+|  | 3- [ساخت دکمه شناور FAB](https://www.youtube.com/watch?v=gkb-z2Dojwg) |
+|  | 4- [طراحی منو Bottom Navigation](https://www.youtube.com/watch?v=NIhJ_gUU7Vk) |
+|  | 5- [طراحی تب در اپلیکیشن Tabview](https://www.youtube.com/watch?v=JBGKSopmcBM) |
+|  | 6- [طراحی اسلایدر](https://www.youtube.com/watch?v=wvW8fJL3PNw) |
+|  | 7- [پیاده سازی ویجت Banner](https://www.youtube.com/watch?v=wu4SBjyNRWM) |
+|  | 8- [آشنایی با Theme در فلاتر](https://www.youtube.com/watch?v=w8meOuqp5K8) |
+|  | 9- [پیاده سازی Date picker](https://www.youtube.com/watch?v=nBvcSDYM4nY) |
 | فصل هفتم: مسیریابی | 1- جا به جایی بین صفحات و مسیریابی عادی |
 |  | 2- مسیریابی با نام |
 | فصل هشتم: ذخیره سازی اطلاعات | 1- استفاده از SharedPrefences |
