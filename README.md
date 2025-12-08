@@ -93,7 +93,8 @@
 |   | 5- [طراحی دکمه Checkbox و Radio Button](https://www.youtube.com/watch?v=4cUDZDccZ8g) |
 |   | 6- [ساخت منو Drop down](https://www.youtube.com/watch?v=ftDDn7nob3Q) |
 |   | 7- [اضافه کردن تصویر و فونت به برنامه](https://www.youtube.com/watch?v=1mRdtdmuuvM) ||  | 8- کار با TextFormField |
-|  | 9- طراحی فرم OTP دریافت کد |
+|  | 9- [دریافت اطلاعات با TextForm](https://www.youtube.com/watch?v=ThvDLiCH0EA) |
+|  | 10- [طراحی فرم OTP دریافت کد](https://www.youtube.com/watch?v=XH9YaUwv6js) |
 | فصل ششم: متریال دیزاین | 1- آشنایی با زبان طراحی متریال دیزاین |
 |  | 2- طراحی Appbar |
 |  | 3- ساخت منو Navigation drawer |
