@@ -1,0 +1,45 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp( MyApp());
+}
+
+class MyApp extends StatelessWidget {
+
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        appBar: AppBar(
+          backgroundColor: Color(0xfff7c307),
+          title: Text("Hello"),
+          //toolbarHeight: 100.0,
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.only(bottomRight: Radius.circular(25.0))
+          ),
+          centerTitle: true,
+         // toolbarOpacity: 0.5,
+          leading: IconButton(onPressed: (){
+            print("ac clicked...");
+          }
+              , icon: Icon(Icons.ac_unit,color: Colors.lightBlueAccent,)),
+          actions: [
+            IconButton(onPressed: (){
+              print("Camera clicked...");
+            }
+            , icon: Icon(Icons.camera_alt_outlined)),
+
+            IconButton(onPressed: (){
+              print("add clicked...");
+            }
+            , icon: Icon(Icons.add)),
+
+          ],
+        ),
+      )
+    );
+  }
+}
