@@ -1,0 +1,72 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp( MyApp());
+}
+
+class MyApp extends StatelessWidget {
+
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        appBar: AppBar(
+          backgroundColor: Color(0xfff7c307),
+          title: Text("Hello"),
+          centerTitle: true,
+             ),
+        endDrawer: Drawer(
+            //backgroundColor: Colors.black45,
+          child: ListView(
+            children: [
+              DrawerHeader(
+                padding: EdgeInsets.zero,
+                child: UserAccountsDrawerHeader(
+
+                  accountName: Text("Hesam",style: TextStyle(fontSize: 19.0),),
+                  accountEmail: Text("info@flutter-learn.ir"),
+                ),
+              ),
+              Container(
+
+                margin: EdgeInsets.symmetric(horizontal: 17.0,vertical: 7.0),
+                decoration: BoxDecoration(
+                  color: Colors.purpleAccent,
+                  borderRadius: BorderRadius.circular(8.0)
+                ),
+                child: ListTile(
+
+                  title: Text("Home",style: TextStyle(fontSize: 18.0,color: Colors.white),),
+                  leading: Icon(Icons.home,size: 30.0,color: Colors.white,),
+                ),
+              ),
+              ListTile(
+
+                title: Text("Profile",style: TextStyle(fontSize: 18.0,color: Colors.black),),
+                leading: Icon(Icons.person,size: 30.0,color: Colors.black,),
+              ),
+              ListTile(
+
+                title: Text("Fedd",style: TextStyle(fontSize: 18.0,color: Colors.black),),
+                leading: Icon(Icons.home,size: 30.0,color: Colors.black,),
+              ),
+              InkWell(
+                onTap: (){
+                  print("Exit clicked...");
+                },
+                child: ListTile(
+
+                  title: Text("Exit",style: TextStyle(fontSize: 18.0,color: Colors.black),),
+                  leading: Icon(Icons.home,size: 30.0,color: Colors.black,),
+                ),
+              ),
+            ],
+          ),
+        ),
+      )
+    );
+  }
+}
