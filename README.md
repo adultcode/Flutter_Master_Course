@@ -104,8 +104,9 @@
 |  | 7- [پیاده سازی ویجت Banner](https://www.youtube.com/watch?v=wu4SBjyNRWM) |
 |  | 8- [آشنایی با Theme در فلاتر](https://www.youtube.com/watch?v=w8meOuqp5K8) |
 |  | 9- [پیاده سازی Date picker](https://www.youtube.com/watch?v=nBvcSDYM4nY) |
-| فصل هفتم: مسیریابی | 1- جا به جایی بین صفحات و مسیریابی عادی |
-|  | 2- مسیریابی با نام |
+| فصل هفتم: مسیریابی | 1- [جا به جایی بین صفحات و مسیریابی عادی](https://www.youtube.com/watch?v=86wJHOBnJaY) |
+|  | 3-[ مسیریابی با نام](https://www.youtube.com/watch?v=xtZFvDmUSCw) |
+|  | 2-[ مسیریابی با go_router](https://www.youtube.com/watch?v=iQDDfvoE2Dk) |
 | فصل هشتم: ذخیره سازی اطلاعات | 1- استفاده از SharedPrefences |
 |  | 2- پیاده سازی Secure SharedPrefences |
 |  | 3- پیاده سازی دیتابیس Sqlite |
