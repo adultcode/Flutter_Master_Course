@@ -105,15 +105,15 @@
 |  | 8- [آشنایی با Theme در فلاتر](https://www.youtube.com/watch?v=w8meOuqp5K8) |
 |  | 9- [پیاده سازی Date picker](https://www.youtube.com/watch?v=nBvcSDYM4nY) |
 | فصل هفتم: مسیریابی | 1- [جا به جایی بین صفحات و مسیریابی عادی](https://www.youtube.com/watch?v=86wJHOBnJaY) |
-|  | 3-[ مسیریابی با نام](https://www.youtube.com/watch?v=xtZFvDmUSCw) |
-|  | 2-[ مسیریابی با go_router](https://www.youtube.com/watch?v=iQDDfvoE2Dk) |
+|  | 2-[ مسیریابی با نام](https://www.youtube.com/watch?v=xtZFvDmUSCw) |
+|  | 3-[ مسیریابی با go_router](https://www.youtube.com/watch?v=iQDDfvoE2Dk) |
 | فصل هشتم: ذخیره سازی اطلاعات | 1- [استفاده از SharedPrefences](https://www.youtube.com/watch?v=rp6F2P_1dAo) |
 |  | 2- [پیاده سازی Secure SharedPrefences](https://www.youtube.com/watch?v=mEHLqb0MCFs) |
 |  | 3- [پیاده سازی دیتابیس Sqlite](https://www.youtube.com/watch?v=rdiSLxla0mc) |
-|  فصل نهم: مدیریت State | 1- آموزش کار با Inherited widget |
-|  | 2- آموزش استفاده از Provider |
-|  | 3- روش های دریافت اطلاعات در Provider |
-|  | 4- آموزش Proxy Provider |
+| فصل نهم: مدیریت State | 1- [آموزش کار با Inherited widget](https://www.youtube.com/watch?v=W4rSJ5wTvGE) |
+|  | 2- [آموزش استفاده از Provider](https://www.youtube.com/watch?v=Y03jBzjkuNI) |
+|  | 3- [روش های دریافت اطلاعات در Provider](https://www.youtube.com/watch?v=D6wTmCo3IGU) |
+|  | 4- [آموزش Proxy Provider](https://www.youtube.com/watch?v=L6q25X9InJE) |
 |  | 5- پیاده سازی الگوی Bloc |
 |  | 6- پیاده سازی الگوی Cubit |
 |  | 7- پیاده سازی Riverpod |
