@@ -1,0 +1,105 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp( MyApp());
+}
+
+class MyApp extends StatefulWidget {
+
+
+  @override
+  State<MyApp> createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+
+  var current_index = 0;
+  var pages = [];
+  @override
+  void initState() {
+    // TODO: implement initState
+    pages.add(Page1());
+    pages.add(Page2());
+    pages.add(Page3());
+
+  }
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        appBar: AppBar(
+          backgroundColor: Color(0xfff7c307),
+          title: Text("Hello"),
+          centerTitle: true,
+             ),
+
+       bottomNavigationBar: BottomNavigationBar(
+         backgroundColor: Colors.yellow,
+         showUnselectedLabels: false,
+         unselectedItemColor: Colors.black,
+         //showSelectedLabels: false,
+         selectedFontSize: 30.0,
+         selectedItemColor: Colors.deepOrange,
+         currentIndex: current_index,
+        onTap: (index){
+           setState(() {
+             current_index = index;
+           });
+      },
+        items: [
+          BottomNavigationBarItem(icon: Icon(Icons.home),label: 'Home'),
+          BottomNavigationBarItem(icon: Icon(Icons.person),label: 'Profile'),
+          BottomNavigationBarItem(icon: Icon(Icons.camera_alt),label: 'Camera'),
+        ],
+      ),
+        body: pages[current_index],
+
+
+      )
+    );
+  }
+}
+
+class Page1 extends StatelessWidget {
+  const Page1({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: Colors.blue,
+      child: Center(
+        child: Text("Page 1",style: TextStyle(fontSize: 30.0),),
+      ),
+    );
+  }
+}
+
+class Page2 extends StatelessWidget {
+  const Page2({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: Colors.green,
+      child: Center(
+        child: Text("Page 2",style: TextStyle(fontSize: 30.0),),
+      ),
+    );
+  }
+}
+
+class Page3 extends StatelessWidget {
+  const Page3({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+
+      child: Center(
+        child: Text("Page 3",style: TextStyle(fontSize: 30.0),),
+      ),
+    );
+  }
+}
