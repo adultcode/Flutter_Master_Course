@@ -107,11 +107,10 @@
 | فصل هفتم: مسیریابی | 1- [جا به جایی بین صفحات و مسیریابی عادی](https://www.youtube.com/watch?v=86wJHOBnJaY) |
 |  | 3-[ مسیریابی با نام](https://www.youtube.com/watch?v=xtZFvDmUSCw) |
 |  | 2-[ مسیریابی با go_router](https://www.youtube.com/watch?v=iQDDfvoE2Dk) |
-| فصل هشتم: ذخیره سازی اطلاعات | 1- استفاده از SharedPrefences |
-|  | 2- پیاده سازی Secure SharedPrefences |
-|  | 3- پیاده سازی دیتابیس Sqlite |
-|  | 4- پیاده سازی ORM |
-| فصل نهم: مدیریت State | 1- آموزش کار با Inherited widget |
+| فصل هشتم: ذخیره سازی اطلاعات | 1- [استفاده از SharedPrefences](https://www.youtube.com/watch?v=rp6F2P_1dAo) |
+|  | 2- [پیاده سازی Secure SharedPrefences](https://www.youtube.com/watch?v=mEHLqb0MCFs) |
+|  | 3- [پیاده سازی دیتابیس Sqlite](https://www.youtube.com/watch?v=rdiSLxla0mc) |
+|  فصل نهم: مدیریت State | 1- آموزش کار با Inherited widget |
 |  | 2- آموزش استفاده از Provider |
 |  | 3- روش های دریافت اطلاعات در Provider |
 |  | 4- آموزش Proxy Provider |
