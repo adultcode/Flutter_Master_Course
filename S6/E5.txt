@@ -1,0 +1,88 @@
+void main() {
+  runApp( MyApp());
+}
+
+class MyApp extends StatefulWidget {
+
+
+  @override
+  State<MyApp> createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+
+
+
+  var value = 0.0;
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        home: Scaffold(
+          appBar: AppBar(
+            backgroundColor: Color(0xfff7c307),
+            title: Text("Hello"),
+            centerTitle: true,
+
+          ),
+
+
+          body: Column(
+            children: [
+              SizedBox(height: 50.0,),
+              Slider(
+                  value: value,
+                  min: 0.0,
+                  max: 100.0,
+                  activeColor: Colors.greenAccent,
+                  inactiveColor: Colors.blueGrey,
+                  thumbColor: Colors.redAccent,
+                  onChanged: (newvalue){
+                    setState(() {
+                      value = newvalue;
+                    });
+                  },
+              ),
+              SizedBox(height: 50.0,),
+              Text(value.toString(),style: TextStyle(fontSize: 25.0),)
+            ],
+          )
+
+
+        )
+    );
+  }
+}
+
+class Page1 extends StatelessWidget {
+  const Page1({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: Colors.green,
+      child: Center(
+        child: TextButton(child: Text("Click",style: TextStyle(fontSize: 30.0),),
+          onPressed: (){
+
+          ScaffoldMessenger.of(context).showMaterialBanner(
+              MaterialBanner(
+                elevation: 3.0,
+                leading: CircleAvatar(child: Icon(Icons.home),),
+                content: Text("Internet dissconnected"),
+                actions: [
+                  TextButton(onPressed: (){}, child: Text("Connect")),
+                  ElevatedButton(onPressed: (){
+                    ScaffoldMessenger.of(context).clearMaterialBanners();
+
+                  },
+                      child: Text("Dissmis"))
+                ],
+              )
+          );
+
+        },),
+      ),
+    );
+  }
+}

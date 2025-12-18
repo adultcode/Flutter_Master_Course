@@ -1,0 +1,123 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp( MyApp());
+}
+
+class MyApp extends StatefulWidget {
+
+
+  @override
+  State<MyApp> createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+
+  List<Widget> pages = [];
+  var current_page = 0;
+  @override
+  void initState() {
+    // TODO: implement initState
+    pages.add(Page1());
+    pages.add(Page2());
+    pages.add(Page3());
+    pages.add(Page1());
+    pages.add(Page2());
+    pages.add(Page3());
+    pages.add(Page2());
+    pages.add(Page3());
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        home: DefaultTabController(
+          length: pages.length,
+          child: Scaffold(
+            appBar: AppBar(
+              title: Text("Tabs"),
+              centerTitle: true,
+            bottom: TabBar(
+              labelColor: Colors.amberAccent,
+           //   indicatorColor: Colors.red,
+             // indicatorWeight: 8.0,
+              isScrollable: true,
+
+              indicator: BoxDecoration(
+                color: Colors.red,
+                shape: BoxShape.circle,
+             //   borderRadius: BorderRadius.circular(6.0)
+
+              ),
+              onTap: (index){
+                print("Item: $index");
+              },
+              tabs: [
+                Tab(icon: Icon(Icons.access_alarm_outlined,size: 25.0,)),
+                Tab(icon: Icon(Icons.adb,size: 25.0,)),
+                Tab(text: "Like",),
+                Tab(text: "Time",),
+                Tab(icon: Icon(Icons.adb,size: 25.0,),text: "Phone",),
+                Tab(icon: Icon(Icons.favorite,size: 25.0,),text: "Like",),
+                Tab(icon: Icon(Icons.adb,size: 25.0,),text: "Phone",),
+                Tab(icon: Icon(Icons.favorite,size: 25.0,),text: "Like",)
+              ],
+            ),
+            ),
+          body: TabBarView(
+            children: pages,
+          ),
+          ),
+        )
+    );
+  }
+}
+
+
+class Page1 extends StatelessWidget {
+  const Page1({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: MediaQuery.of(context).size.width,
+      height: MediaQuery.of(context).size.height,
+      color: Colors.green,
+      child: Center(
+        child: Text("Page 1",style: TextStyle(fontSize: 25.0),),
+      ),
+    );
+  }
+}
+class Page2 extends StatelessWidget {
+  const Page2({Key? key}) : super(key: key);
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: MediaQuery.of(context).size.width,
+      height: MediaQuery.of(context).size.height,
+      color: Colors.red,
+      child: Center(
+        child: Text("Page 2",style: TextStyle(fontSize: 25.0),),
+      ),
+    );
+  }
+}
+
+class Page3 extends StatelessWidget {
+  const Page3({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: MediaQuery.of(context).size.width,
+      height: MediaQuery.of(context).size.height,
+      color: Colors.purpleAccent,
+      child: Center(
+        child: Text("Page 3",style: TextStyle(fontSize: 25.0),),
+      ),
+    );
+  }
+}
