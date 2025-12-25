@@ -117,11 +117,11 @@
 |  | 5- [پیاده سازی Stream ](https://www.youtube.com/watch?v=NOxIvsgDrOc)|
 |  | 6- [پیاده سازی الگوی Bloc](https://www.youtube.com/watch?v=MpSzB9qBJWM)|
 |  | 7-[ پیاده سازی الگوی Cubit ](https://www.youtube.com/watch?v=gnasGBHKrsk)|
-| فصل دهم: ارتباط با سرور | 1- آشنایی با Rest API |
-|  | 2- ارسال درخواست GET |
-|  | 3- دریافت لیست بازیکنان تیم فوتبال |
-|  | 4- ارسال پارامتر به سرور |
-|  | 5- ارسال درخواست Post |
+| فصل دهم: ارتباط با سرور | 1- [آشنایی با Rest API](https://www.youtube.com/watch?v=lvQzB68ASZw) |
+|  | 2- [نمایش لیست اطلاعات از سرور](https://www.youtube.com/watch?v=068rc5OyvSE) |
+|  | 3- [ارسال درخواست POST](https://www.youtube.com/watch?v=7kVNhyD62VQ) |
+|  | 4- [آموزش فرآیند لاگین در سرور](https://www.youtube.com/watch?v=p67nZPeleDc) |
+|  | 5- [آموزش دانلود فایل](https://www.youtube.com/watch?v=llZmXraU61A) |
 | فصل یازدهم: پروژه رابط کاربری | 1- پروژه عملی طراحی رابط کاربری |
 | فصل دوازدهم: انیمیشن ها | 1- استفاده از ویجت های ویژه انیمیشن |
 |  | 2- انیمیشن Hero |
