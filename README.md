@@ -114,10 +114,9 @@
 |  | 2- [آموزش استفاده از Provider](https://www.youtube.com/watch?v=Y03jBzjkuNI) |
 |  | 3- [روش های دریافت اطلاعات در Provider](https://www.youtube.com/watch?v=D6wTmCo3IGU) |
 |  | 4- [آموزش Proxy Provider](https://www.youtube.com/watch?v=L6q25X9InJE) |
-|  | 5- پیاده سازی الگوی Bloc |
-|  | 6- پیاده سازی الگوی Cubit |
-|  | 7- پیاده سازی Riverpod |
-|  | 8- پیاده سازی Stream |
+|  | 5- [پیاده سازی Stream ](https://www.youtube.com/watch?v=NOxIvsgDrOc)|
+|  | 6- [پیاده سازی الگوی Bloc](https://www.youtube.com/watch?v=MpSzB9qBJWM)|
+|  | 7-[ پیاده سازی الگوی Cubit ](https://www.youtube.com/watch?v=gnasGBHKrsk)|
 | فصل دهم: ارتباط با سرور | 1- آشنایی با Rest API |
 |  | 2- ارسال درخواست GET |
 |  | 3- دریافت لیست بازیکنان تیم فوتبال |
