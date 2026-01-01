@@ -1,0 +1,71 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatefulWidget {
+
+
+  @override
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+
+ late SharedPreferences _preferences;
+ var name = "";
+ TextEditingController _controller = TextEditingController();
+  @override
+  void initState() {
+    // TODO: implement initState
+    ReadData();
+  }
+
+  void SaveData(var txt) async{
+
+    _preferences = await SharedPreferences.getInstance();
+    _preferences.setString('name', txt);
+
+    ReadData();
+  }
+  void ReadData() async{
+    _preferences = await SharedPreferences.getInstance();
+    // _preferences.remove('name');
+    setState(() {
+      name =  _preferences.getString('name')!;
+    });
+  }
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        body: Container(
+          margin: EdgeInsets.only(top: 70.0),
+            child: Column(
+              children: [
+                Text("Name: $name"),
+                SizedBox(height: 20.0,),
+                TextButton(onPressed: (){
+                  var text = _controller.text.toString();
+                  SaveData(text);
+                  ReadData();
+                },
+                    child: Text("Save")),
+                SizedBox(height: 20.0,),
+                Container(
+                  width: 150.0,
+                  child: TextField(
+                    controller: _controller,
+
+                  ),
+                )
+              ],
+            ),
+        ),
+      ),
+    );
+  }
+}
