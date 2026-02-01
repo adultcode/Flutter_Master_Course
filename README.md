@@ -122,10 +122,12 @@
 |  | 3- [ارسال درخواست POST](https://www.youtube.com/watch?v=7kVNhyD62VQ) |
 |  | 4- [آموزش فرآیند لاگین در سرور](https://www.youtube.com/watch?v=p67nZPeleDc) |
 |  | 5- [آموزش دانلود فایل](https://www.youtube.com/watch?v=llZmXraU61A) |
-| فصل یازدهم: پروژه رابط کاربری | 1- پروژه عملی طراحی رابط کاربری |
-| فصل دوازدهم: انیمیشن ها | 1- استفاده از ویجت های ویژه انیمیشن |
-|  | 2- انیمیشن Hero |
-| فصل سیزدهم: بازی دوز | 1- طراحی بازی دوز |
+| فصل یازدهم: پروژه رابط کاربری | 1- [پروژه عملی طراحی رابط کاربری](https://www.youtube.com/watch?v=Z1tL3jy1WSQ) |
+| فصل دوازدهم: انیمیشن ها | 1- [استفاده از ویجت های ویژه انیمیشن](https://www.youtube.com/watch?v=h3YKzhbpb2w) |
+|  | 2- [انیمیشن ](https://www.youtube.com/watch?v=o1qrRbRbP-s) |
+|  |3- [انیمیشن ](https://www.youtube.com/watch?v=cBD9OdzWC34) |
+|  | 4- [انیمیشن Hero](https://www.youtube.com/watch?v=OOvhzJcvUks) |
+| فصل سیزدهم: بازی دوز | 1- [طراحی بازی دوز](https://www.youtube.com/watch?v=yRLZy6uAyVw) |
 | فصل چهاردهم: کار با نقشه | 1- نمایش نقشه در اپلیکیشن |
 |  | 2- دریافت لوکیشن کاربر |
 |  | 3- کار با Google map |
