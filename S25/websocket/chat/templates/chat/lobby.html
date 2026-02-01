@@ -1,0 +1,76 @@
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+</head>
+<body>
+    <h1>let's chat</h1>
+
+
+    <form id="form">
+        <input type="text" name="message"/>
+    </form>
+    <div id="messages"></div>
+    <ul id="todo" class="list-group"></ul>
+    <script type="text/javascript">
+
+        let url = `ws://${window.location.host}/ws/socket-server/`
+        const chatSocket = new WebSocket(url)
+        chatSocket.onmessage = function (e){
+            let data =  JSON.parse(e.data)
+            console.log('Data: ',data)
+            if(data.type==='chat'){
+                let messages = document.getElementById("messages")
+                let todo = document.getElementById("todo")
+                console.log('trueee')
+
+                todo.insertAdjacentHTML('beforeend',`<div>
+                    <li class="list-group-item">${data.name}: ${data.message}</li>
+</div>`)
+
+
+            }
+
+            if(data.type==="todo" ){
+
+                let element = document.getElementById("todo")
+            const dat = data.mylist
+             for(var i =0;i<dat.length;i++){
+                  element.insertAdjacentHTML('afterbegin',`
+            <div>
+
+                        <p></p>
+<li class="list-group-item">${dat[i].title}</li>
+
+            </div>`)
+            }
+
+            }
+
+        }
+
+        let form = document.getElementById("form")
+
+        form.addEventListener('submit',(e)=>{
+            e.preventDefault()
+            let message = e.target.message.value
+            chatSocket.send(JSON.stringify({
+                'message':message,
+                'name':'system'
+            }))
+            form.reset()
+        })
+
+
+
+    </script>
+    <br>
+    <br>
+<ul class="list-group">
+<li class="list-group-item">Chat screen</li>
+
+
+
+</ul>
+</body>
+</html>

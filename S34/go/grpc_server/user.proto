@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option go_package = "./;proto";
+
+message User{
+
+  int32 Id = 1;
+  string name = 2;
+  string email = 3;
+}
+
+/*
+  Request
+  Response
+  Method(Request) => Response
+
+ */
+
+message GetUserResponse {
+  User user = 1;
+}
+message GetUserRequest {
+  int32  id =1;
+    }
+
+message StreamUsersRequest {}
+
+service Students{
+  rpc GetUser(GetUserRequest) returns (GetUserResponse){}
+  rpc StreamUsers(StreamUsersRequest) returns (stream GetUserResponse) {}
+
+}
