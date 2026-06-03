@@ -128,7 +128,7 @@
 |  |3- [انیمیشن ](https://www.youtube.com/watch?v=cBD9OdzWC34) |
 |  | 4- [انیمیشن Hero](https://www.youtube.com/watch?v=OOvhzJcvUks) |
 | فصل سیزدهم: بازی دوز | 1- [طراحی بازی دوز](https://www.youtube.com/watch?v=yRLZy6uAyVw) |
-| فصل چهاردهم: کار با نقشه | 1- نمایش نقشه در اپلیکیشن |
+| فصل چهاردهم: کار با نقشه | 1- [نمایش نقشه در اپلیکیشن](https://www.youtube.com/watch?v=wQ4rkfSzri8)|
 |  | 2- دریافت لوکیشن کاربر |
 |  | 3- کار با Google map |
 | فصل پانزدهم: مدیا | 1- طراحی موزیک پلیر |
