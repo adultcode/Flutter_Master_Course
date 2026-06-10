@@ -139,15 +139,23 @@
 | فصل هفدهم: ترسیم اشکال | 1- ترسیم شکل های مختلف با کلاس CustomPainter |
 |  | 2- طراحی شکل موج با کلاس CustomClipper |
 | فصل هجدهم: نوتیفیکیشن | 1- نمایش انواع نوتیفیکیشن |
-| فصل نوزدهم: شبکه اجتماعی | 1- طراحی صفحه ورود |
-|  | 2- طراحی تایم لاین |
-|  | 3- لایک کردن مطالب |
-|  | 4- ارسال کامنت |
-|  | 5- نمایش کامنت ها |
-|  | 6- طراحی صفحه پروفایل |
-|  | 7- صفحه ارسال پست |
-|  | 8- ویرایش اطلاعات پروفایل |
-|  | 9- پیاده سازی فالو و آنفالو کردن |
+| فصل نوزدهم: شبکه اجتماعی | [1- پروژ شبکه اجتمای ](https://www.youtube.com/watch?v=ffxYaaz9J4c) |
+|  | [2- طراحی صفحه ورود](https://www.youtube.com/watch?v=fBq0mBbNzto) |
+|  | [3- طراحی ثبت نام  ](https://www.youtube.com/watch?v=inGXZaDTeew) |
+|  | [4- احراز هویت](https://www.youtube.com/watch?v=jsdUCTVEzuM) |
+|  | [5- ثبت نام کاربر](https://www.youtube.com/watch?v=iE3CH8k77no) |
+|  | [6- اسپلش اسکرین](https://www.youtube.com/watch?v=ybqhVYrhor4) |
+|  | [7- دریافت لیست پستها](https://www.youtube.com/watch?v=XGSEj0IwHeM) |
+|  | [8- طراحی نمایش یک پست آیتم](https://www.youtube.com/watch?v=Cj3zbkpvi5Y) |
+|  | [9- صفحه تایملاین](https://www.youtube.com/watch?v=EdA5NlxVmk8) |
+|  | [10- لایک کردن مطالب](https://www.youtube.com/watch?v=9onu778V_wE) |
+|  | [11- فرم ارسال کامنت](https://www.youtube.com/watch?v=4UlXG5vCb5c) |
+|  | [12- دریافت لیست کامنتها](https://www.youtube.com/watch?v=VNdc8XYRWUc) |
+|  | [13- ارسال کامنت به سرور](https://www.youtube.com/watch?v=3Jn8o9tdrFY) |
+|  | [14- ارسال پست](https://www.youtube.com/watch?v=S3alHKtjaSA) |
+|  | [15- طراحی صفحه پروفایل](https://www.youtube.com/watch?v=ZJCpKRihiIQ) |
+|  | [16- فالو کردن کاربران](https://www.youtube.com/watch?v=gkXXTOTN02M) |
+|  | [17- ویرایش پروفایل](https://www.youtube.com/watch?v=SNZSsthVn18) |
 | فصل بیستم: معماری نرم افزار | 1- پیاده سازی معماری MVVM |
 |  | 2- تزریق وابستگی Get_it |
 |  | 3- معماری تمیز Clean architecture |
