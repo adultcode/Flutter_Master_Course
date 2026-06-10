@@ -131,9 +131,11 @@
 | فصل چهاردهم: کار با نقشه | 1- [نمایش نقشه در اپلیکیشن](https://www.youtube.com/watch?v=wQ4rkfSzri8)|
 |  | [2- دریافت لوکیشن کاربر](https://www.youtube.com/watch?v=-ZyNxJVtPpM) |
 |  | [3- کار با Google map](https://www.youtube.com/watch?v=SQ6Wu8FWtLs) |
-| فصل پانزدهم: مدیا | 1- طراحی موزیک پلیر |
-|  | 2- کار با فایل های ویدیویی |
-| فصل شانزدهم: پکیج Getx | 1- بررسی قابلیت های Getx |
+| فصل پانزدهم: مدیا | [1- طراحی موزیک پلیر](https://www.youtube.com/watch?v=RvujfZHgJ6M) |
+|  | [2- کار با فایل های ویدیویی](https://www.youtube.com/watch?v=sbPz-UcFGco) |
+| فصل شانزدهم: پکیج Getx | [1- بررسی قابلیت های Getx](https://www.youtube.com/watch?v=TK3T0_XvFZw) |
+|  | [2- بررسی Getx](https://www.youtube.com/watch?v=YXW5KL62xqI) |
+|  | [3- مسیریابی با Getx](https://www.youtube.com/watch?v=1COX9ou7Vdg) |
 | فصل هفدهم: ترسیم اشکال | 1- ترسیم شکل های مختلف با کلاس CustomPainter |
 |  | 2- طراحی شکل موج با کلاس CustomClipper |
 | فصل هجدهم: نوتیفیکیشن | 1- نمایش انواع نوتیفیکیشن |
