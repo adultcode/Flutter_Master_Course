@@ -156,16 +156,18 @@
 |  | [15- طراحی صفحه پروفایل](https://www.youtube.com/watch?v=ZJCpKRihiIQ) |
 |  | [16- فالو کردن کاربران](https://www.youtube.com/watch?v=gkXXTOTN02M) |
 |  | [17- ویرایش پروفایل](https://www.youtube.com/watch?v=SNZSsthVn18) |
-| فصل بیستم: معماری نرم افزار | 1- پیاده سازی معماری MVVM |
-|  | 2- تزریق وابستگی Get_it |
-|  | 3- معماری تمیز Clean architecture |
-| فصل بیست و یکم: فلاتر وب | 1- ایجاد اولین پروژه فلاتر وب |
-|  | 2- طراحی وب اپلیکیشن موضوع فیلم |
-| فصل بیست و دوم: ساخت مرورگر | 1- طراحی اپلیکیشن مرورگر اینترنتی |
-| فصل بیست و سوم: درگاه پرداخت آنلاین | 1- پیاده سازی قابلیت Deep link |
-|  | 2- پیاده سازی درگاه پرداخت اینترنتی |
-| فصل بیست و چهارم: خروجی برنامه | 1- خروجی گرفتن از پروژه |
-| فصل بیست و پنجم: طراحی چت روم با سوکت سرور | 1- طراحی اپلیکیشن چت روم |
+| فصل بیستم: معماری نرم افزار | [1- تزریق وابستگی Get_it](https://www.youtube.com/watch?v=l1oXZWpNQp8) |
+|  | [2- پیاده سازی معماری MVVM](https://www.youtube.com/watch?v=fgxNevh1wUQ) |
+|  | [3- معماری تمیز Clean architecture](https://www.youtube.com/watch?v=fgxNevh1wUQ) |
+| فصل بیست و یکم: فلاتر وب | [1- ایجاد اولین پروژه فلاتر وب](https://www.youtube.com/watch?v=GeLdP6qRx04) |
+|  | [2- طراحی وب اپلیکیشن موضوع فیلم بخش دوم](https://www.youtube.com/watch?v=ukLf-wFM96g) |
+|  | [2- طراحی وب اپلیکیشن موضوع فیلم بخش سوم  ](https://www.youtube.com/watch?v=0hIi5Fmgxk8) |
+|  | [2- طراحی وب اپلیکیشن موضوع فیلم بخش چهارم](https://www.youtube.com/watch?v=7-McyvygdLs) |
+| فصل بیست و دوم: ساخت مرورگر | [1- طراحی اپلیکیشن مرورگر اینترنتی](https://www.youtube.com/watch?v=Qt2HYbjv3qc) |
+| فصل بیست و سوم: درگاه پرداخت آنلاین | [1- پیاده سازی قابلیت Deep link](https://www.youtube.com/watch?v=KZfCen1Lfzg) |
+|  | [2- پیاده سازی درگاه پرداخت اینترنتی](https://www.youtube.com/watch?v=u2YtRO2IkCs) |
+| فصل بیست و چهارم: خروجی برنامه | [1- خروجی گرفتن از پروژه](https://www.youtube.com/watch?v=82c8CW7oLws) |
+| فصل بیست و پنجم: طراحی چت روم با سوکت سرور | [1- طراحی اپلیکیشن چت روم](https://www.youtube.com/watch?v=8Sg_1r_2-sE) |
 | فصل بیست و ششم: آموزش گیت | 1- آشنایی با گیت |
 |  | 2- مفاهیم اولیه گیت |
 |  | 3- گیتهاب |
